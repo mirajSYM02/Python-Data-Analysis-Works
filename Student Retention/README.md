@@ -2,7 +2,6 @@
 
 # An Analysis of Higher Education Predictors of Student Retention
 
-A brief description of what this project does and who it's for
 
 ## Introduction:
 The higher education system is one of the most important drivers of a country's economic growth and development. It is crucial to understand the factors that contribute to student retention in higher education institutions. This analysis aims to explore the Higher Education Predictors of Student Retention dataset, which was obtained from Kaggle, to understand the relationship between various factors and student retention.
